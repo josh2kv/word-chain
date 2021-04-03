@@ -12,9 +12,13 @@
 ## 3. 학습후기
 웹개발 학습 2개월차
 - 한국어만 입력가능하도록 하는 함수를 가져다 쓰면서 정규표현식을 공부해야 할 필요성을 느낌
+- 경우의 수를 정리하기 위해 순서도를 그려봄
 - '새 게임' 버튼과 '포기' 버튼 미완성
 
 https://josh2kv.github.io/word-chain/
+
+![image](https://user-images.githubusercontent.com/79514508/113465434-91f7ad80-93f9-11eb-860b-013430e25d73.png)
+
 
 ![image](https://user-images.githubusercontent.com/79514508/113300380-79857700-92c3-11eb-98a9-c486a7df8d14.png)
 
